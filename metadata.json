@@ -1,0 +1,6 @@
+{
+  "name": "Tazaj Mart Supermarket ERP",
+  "description": "نظام مبيعات (POS) ونظام محاسبي متكامل لسوبر ماركت تازه مارت، يشمل نقاط البيع السريع والتقليدي، إدارة المخزون، والمشتريات وحسابات الأرباح والخسائر للكمبيوتر والموبايل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
